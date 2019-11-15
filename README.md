@@ -1,9 +1,9 @@
 # demo-repo
 
-### This is a demo repo
+#### These points should be mentioned in README.md
 
-Problem Description
-Dev environment setup
-Build instructions
-Run instructions
-Testing instructions
+* **Problem Description**
+* **Dev environment setup**
+* **Build instructions**
+* **Run instructions**
+* **Testing instructions**
